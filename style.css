@@ -1,0 +1,46 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.mainHeading {
+  color: black;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+.subHeading {
+  color: darkcyan;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+.boxx {
+  border-radius: 10px;
+  border: solid grey 2px;
+  background-color: rgb(0, 0, 2);
+}
+
+
+
+.bgList {
+  background-color: yellowgreen;
+  
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+.dataDiv {
+  height: 80vh;
+  overflow: auto;
+  background-color: #c6c4d3 ;
+  border: 1px solid #c6c4d3;
+}
+
+.navBg {
+  background-color: black;
+  border-top: black groove 2px;
+  border-bottom: black groove 2px;
+}
